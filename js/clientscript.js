@@ -10,7 +10,7 @@ function cc(n,v,d) {
 
 
 $('document').ready(function(){
-	$.get( "request.txt", function( data ) {
+	$.get( "js/request.txt", function( data ) {
 	});
 
 	cc("supersecret", "test", undefined);
