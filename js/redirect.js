@@ -1,0 +1,1 @@
+window.location = "countdown.html";
